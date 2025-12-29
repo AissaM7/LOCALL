@@ -10,7 +10,7 @@ Locall is a React Native mobile application designed to help users discover and 
 - **The Lounge**: A localized chat room for every event to break the ice before you arrive.
   - "Who's Here" visibility.
   - Auto-send icebreaker chips.
-- **Event Creation**: Host your own gatherings with "Partiful-style" easy invites.
+- **Event Creation**: Host your own gatherings with stylish easy invites.
 - **Profile & Tickets**: Manage your RSVPs and tickets in a beautiful, card-style interface.
 - **Authentication**: Seamless sign-in with Apple, Google, and Instagram (via Supabase).
 
